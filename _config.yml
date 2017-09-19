@@ -11,13 +11,13 @@ permalink: / ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 
 ### content configuration ###
 title:       "Raphaelle Heaf"
-keywords:    "Marketing, Social Media, Digital Communications"
-description: "Digital marketing & social media strategy for everyone"
+keywords:    "Marketing, Social Media, Digital Communications, Engagement, Community development"
+description: "Digital engagement & social media strategies for everyone"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/rheaf.jpg"
 touch_icon:  "img/apple-touch-icon.png"
