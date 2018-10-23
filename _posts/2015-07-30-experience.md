@@ -14,7 +14,7 @@ fa-icon: star
 <h4><font color ="purple">media relations</font></h4> Analysis of the PR and event landscape - no matter the industry - placing people in a position where they can have the most impact.
 <h4><font color ="purple">team leadership</font></h4> Managing creative teams with excellent interpersonal and communication skills and a proven ability in influencing and persuading across large and complex organisations.
 
-</br>
+<br>
 
 #### How can I help you? [Let's chat](mailto:raphaelle@raphaelleheaf.com).
 
