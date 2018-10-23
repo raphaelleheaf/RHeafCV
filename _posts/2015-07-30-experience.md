@@ -14,10 +14,10 @@ fa-icon: star
 
 People who’ve worked with me have benefitted from my:
 
-* strategic innovation: led digital and social strategies to support new product positioning, acquisitions and rebrands and establish and manage global communities
-* communications design: developing narratives across large transformation programmes and providing valuable direction for senior leaders preparing keynote speeches, video appearances, guest blog posts, or media interviews 
-* press relations and community development: analysis of the PR and event landscape - no matter the industry - placing people in a position where they can have the most impact
-* team and project leadership: managing product development and creative teams with excellent interpersonal and communication skills and a proven ability in influencing and persuading across large and complex organisations
+* <h3>strategic innovation:</h3> led digital and social strategies to support new product positioning, acquisitions and rebrands and establish and manage global communities
+* <h3>communications design:</h3> developing narratives across large transformation programmes and providing valuable direction for senior leaders preparing keynote speeches, video appearances, guest blog posts, or media interviews 
+* <h3>press relations and community development:</h3> analysis of the PR and event landscape - no matter the industry - placing people in a position where they can have the most impact
+* <h3>team and project leadership:</h3> managing product development and creative teams with excellent interpersonal and communication skills and a proven ability in influencing and persuading across large and complex organisations
 
 
 #### How can I help you? [Let's chat](mailto:raphaelle@raphaelleheaf.com).
